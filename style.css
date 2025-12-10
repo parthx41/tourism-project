@@ -1,0 +1,11 @@
+*{
+    font-family:Poppins;
+}
+
+.place-main-container{
+    height:600px;
+    width: 270px;
+    background-image: url("https://ik.imagekit.io/4z8covdo9/MERN-COURSE-ASSETS/TOURISM-PROJECT/taj-mahal");
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
